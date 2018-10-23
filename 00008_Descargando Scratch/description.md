@@ -8,12 +8,12 @@ El mismo tendrá la presentación inicial de la _imágen 3_, y como ves en el pa
 
 
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
   <!-- Indicators -->
   <ol class="carousel-indicators">
-    <li data-target="#myCarousel" class="active"></li>
-    <li data-target="#myCarousel"></li>
-    <li data-target="#myCarousel"></li>
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
   </ol>
 
   <!-- Wrapper for slides -->
