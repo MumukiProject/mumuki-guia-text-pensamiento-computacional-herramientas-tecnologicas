@@ -21,21 +21,21 @@ El mismo tendrá la presentación inicial de la _imágen 3_, y como ves en el pa
     <div class="item active" align="center">
       <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_1_1540245716894.png" alt="tecla_instalacion_scratch_1_1540245716894.png" width="auto" height="auto">
       <div class="carousel-caption">
-        <p style="color:black;">Imágen 1</p>
+        <p style="color:black;">Imagen 1</p>
       </div>
     </div>
 
     <div class="item" align="center">
       <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_2_1540245752034.png" alt="tecla_instalacion_scratch_2_1540245752034.png" width="auto" height="auto">
       <div class="carousel-caption">
-        <p style="color:black">Imágen 2</p>
+        <p style="color:black">Imagen 2</p>
       </div>
     </div>
 
     <div class="item" align="center">
       <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_3_1540245792199.png" alt="tecla_instalacion_scratch_3_1540245792199.png" width="auto" height="auto">
       <div class="carousel-caption">
-        <p style="color:black">Imágen 3</p>
+        <p style="color:black">Imagen 3</p>
       </div>
     </div>
   </div>
