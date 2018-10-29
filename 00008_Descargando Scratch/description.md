@@ -73,8 +73,8 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
   .carousel-inner > .item > .carousel-caption > p {
     color: black;
   }
-  .carousel-control.left,
+  /*.carousel-control.left,
   .carousel-control.right {
     background-image: unset;
-  }
+  }*/
 </style>
