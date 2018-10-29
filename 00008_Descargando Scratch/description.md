@@ -56,12 +56,12 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
     position: relative;
     max-height: 600px;
   }
+  /*
   .carousel-inner > .item > img {
     width: 100%;
     max-height: 600px;
-    /*object-fit: contain;*/
+    object-fit: contain;
   }
-  /*
   .carousel-inner > .item > .carousel-caption {
     position: absolute;
     left: 0;
