@@ -9,7 +9,7 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
 
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
-  <!-- Indicators -->
+
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -18,19 +18,19 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
 
   <div class="carousel-inner">
     <div class="item active" align="center">
-      <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_1_1540245716894.png" alt="tecla_instalacion_scratch_1_1540245716894.png">
+      <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_1_1540245716894.png" alt="Imagen 1">
       <div class="carousel-caption">
         <p>Imagen 1</p>
       </div>
     </div>
     <div class="item" align="center">
-      <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_2_1540245752034.png" alt="tecla_instalacion_scratch_2_1540245752034.png">
+      <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_2_1540245752034.png" alt="Imagen 2">
       <div class="carousel-caption">
         <p>Imagen 2</p>
       </div>
     </div>
     <div class="item" align="center">
-      <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_3_1540245792199.png" alt="tecla_instalacion_scratch_3_1540245792199.png">
+      <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_3_1540245792199.png" alt="Imagen 3">
       <div class="carousel-caption">
         <p>Imagen 3</p>
       </div>
@@ -48,7 +48,7 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
 </div>
 
 <style>
-  .carousel-inner {
+  /*.carousel-inner {
     width: 100%;
   }
   .carousel-inner > .item {
@@ -74,5 +74,5 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
   .carousel-control.right {
     background-image: none;
     background-repeat: none;
-  }
+  }*/
 </style>
