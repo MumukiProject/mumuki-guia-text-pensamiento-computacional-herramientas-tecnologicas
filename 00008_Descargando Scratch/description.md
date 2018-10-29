@@ -20,19 +20,19 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
     <div class="item active" align="center">
       <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_1_1540245716894.png" alt="Imagen 1">
       <div class="carousel-caption">
-        <p>Imagen 1</p>
+        <small>Imagen 1</small>
       </div>
     </div>
     <div class="item" align="center">
       <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_2_1540245752034.png" alt="Imagen 2">
       <div class="carousel-caption">
-        <p>Imagen 2</p>
+        <small>Imagen 2</small>
       </div>
     </div>
     <div class="item" align="center">
       <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_3_1540245792199.png" alt="Imagen 3">
       <div class="carousel-caption">
-        <p>Imagen 3</p>
+        <small>Imagen 3</small>
       </div>
     </div>
   </div>
@@ -66,8 +66,8 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
     width: 100%;
     bottom: -40px;
   }
-  .carousel-inner > .item > .carousel-caption > p {
-    color: black;
+  .carousel-inner > .item > .carousel-caption > small {
+    /*color: black;*/
   }
   .carousel-control.left,
   .carousel-control.right {
