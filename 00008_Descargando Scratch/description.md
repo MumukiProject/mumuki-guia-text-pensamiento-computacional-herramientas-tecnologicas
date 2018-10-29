@@ -16,7 +16,6 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
     <li data-target="#myCarousel" data-slide-to="2"></li>
   </ol>
 
-  <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active" align="center">
       <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_1_1540245716894.png" alt="tecla_instalacion_scratch_1_1540245716894.png">
@@ -24,14 +23,12 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
         <p>Imagen 1</p>
       </div>
     </div>
-
     <div class="item" align="center">
       <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_2_1540245752034.png" alt="tecla_instalacion_scratch_2_1540245752034.png">
       <div class="carousel-caption">
         <p>Imagen 2</p>
       </div>
     </div>
-
     <div class="item" align="center">
       <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_3_1540245792199.png" alt="tecla_instalacion_scratch_3_1540245792199.png">
       <div class="carousel-caption">
@@ -40,7 +37,6 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
     </div>
   </div>
 
-  <!-- Left and right controls -->
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left"></span>
     <span class="sr-only">Previous</span>
@@ -79,4 +75,4 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
     background-image: none;
     background-repeat: none;
   }
-</style> 
+</style>
