@@ -50,6 +50,7 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
 <style>
   .carousel-inner {
     width: 100%;
+    margin-bottom: 30px;
   }
   .carousel-inner > .item {
     width: 100%;
