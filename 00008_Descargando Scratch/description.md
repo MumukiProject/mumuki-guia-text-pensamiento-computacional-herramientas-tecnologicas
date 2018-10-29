@@ -63,7 +63,7 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
     position: absolute;
     left: 0;
     width: 100%;
-    bottom: -30px;
+    bottom: -40px;
   }
   .carousel-inner > .item > .carousel-caption > p {
     color: black;
