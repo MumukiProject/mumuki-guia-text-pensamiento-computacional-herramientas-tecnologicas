@@ -70,9 +70,14 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
     color: black;
   }
   .carousel-control span,
-  .carousel-control strong,
-  .carousel-indicatos li {
+  .carousel-control strong {
     color: black;
+  }
+  .carousel-indicatos li:active {
+    background-color: black;
+  }
+  .carousel-indicatos li {
+    border-color: black;
   }
   .carousel-control.left,
   .carousel-control.right {
