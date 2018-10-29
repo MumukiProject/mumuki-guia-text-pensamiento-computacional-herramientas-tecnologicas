@@ -48,9 +48,10 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
 </div>
 
 <style>
-  /*.carousel-inner {
+  .carousel-inner {
     width: 100%;
   }
+  /*
   .carousel-inner > .item {
     width: 100%;
     position: relative;
@@ -74,5 +75,6 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
   .carousel-control.right {
     background-image: none;
     background-repeat: none;
-  }*/
+  }
+  */
 </style>
