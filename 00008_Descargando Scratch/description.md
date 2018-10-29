@@ -77,5 +77,4 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
     background-image: none;
     background-repeat: none;
   }
-  */
 </style>
