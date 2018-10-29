@@ -71,8 +71,7 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
   }
   .carousel-control span,
   .carousel-control strong,
-  .carousel-indicatos span,
-  .carousel-indicatos strong {
+  .carousel-indicatos li {
     color: black;
   }
   .carousel-control.left,
