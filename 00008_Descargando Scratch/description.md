@@ -66,6 +66,9 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
     width: 100%;
     bottom: -15px;
   }
+  .carousel-inner > .item > .carousel-caption > small {
+    color: black;
+  }
   .carousel-control span,
   .carousel-control strong {
     color: black;
