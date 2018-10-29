@@ -51,6 +51,7 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
   .carousel-inner {
     width: 100%;
     margin-bottom: 30px;
+    padding-bottom: 30px;
   }
   .carousel-inner > .item {
     width: 100%;
@@ -64,7 +65,7 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
     position: absolute;
     left: 0;
     width: 100%;
-    bottom: -15px;
+    bottom: -60px;
   }
   .carousel-inner > .item > .carousel-caption > small {
     color: black;
