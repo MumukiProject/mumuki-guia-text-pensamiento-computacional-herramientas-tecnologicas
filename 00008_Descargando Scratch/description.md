@@ -58,6 +58,7 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
   .carousel-inner > .item {
     width: 100%;
     position: relative;
+    max-height: 600px;
   }
   .carousel-inner > .item > img {
     width: 100%;
@@ -73,9 +74,9 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
   .carousel-inner > .item > .carousel-caption > p {
     color: black;
   }
-  /*.carousel-control.left,
+  .carousel-control.left,
   .carousel-control.right {
     background-image: none;
     background-repeat: none;
-  }*/
+  }
 </style> 
