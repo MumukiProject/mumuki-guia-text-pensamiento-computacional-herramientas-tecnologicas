@@ -67,7 +67,11 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
     bottom: -15px;
   }
   .carousel-inner > .item > .carousel-caption > small {
-    /*color: black;*/
+    color: black;
+  }
+  .carousel-control,
+  .carousel-indicatos {
+    color: black;
   }
   .carousel-control.left,
   .carousel-control.right {
