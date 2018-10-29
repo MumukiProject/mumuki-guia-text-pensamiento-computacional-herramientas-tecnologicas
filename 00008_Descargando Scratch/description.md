@@ -73,6 +73,12 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
   .carousel-control strong {
     color: black;
   }
+  .carousel-indicatos li {
+    border-color: black;
+  }
+  .carousel-indicatos .active {
+    background-color: black;
+  }
   .carousel-control.left,
   .carousel-control.right {
     background-image: none;
