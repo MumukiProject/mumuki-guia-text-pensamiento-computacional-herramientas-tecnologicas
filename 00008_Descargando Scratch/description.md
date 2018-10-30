@@ -1,4 +1,6 @@
-Podés descargar este programa desde [acá](https://scratch.mit.edu/download).
+Podés descargar este programa para Linux seguiendo [estos pasos](https://diocesanos.es/blogs/equipotic/2017/09/15/instalacion-de-scratch-2-offline-con-adobe-air-en-ubuntu/)
+
+Si tenés Windodws o MacOS, el link de descarga es [este](https://scratch.mit.edu/download).
 
 Es probable que tengas que entrar 2 veces ya que requiere de la instalación previa de AdobeAir, disponible en la misma página, como muestra en los pasos 1 y 2 de la _imagen 1_.
 
