@@ -13,6 +13,6 @@ Está realizado con Gobstones y de la misma manera que 2 bolitas verdes se conve
 
 Para poder utilizar el juego son varios los procedimientos que vas a tener que programar, de manera similar a la que usaste para armar `SembrarLechuga`.
 Algunos de ellos podrían ser por ejemplo: `PrepararTablero` para volver a iniciar el juego, o `PonerOSacarBandera`.
-Estos procedimientos los creamos pensando: ¿Qué es lo que el programa tiene que saber hacer o entender para funcionar?
+Estos procedimientos los creamos pensando: ¿qué es lo que el programa tiene que saber hacer o entender para funcionar?
 
 
