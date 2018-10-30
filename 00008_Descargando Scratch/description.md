@@ -6,8 +6,6 @@ Al abrir la descarga del Editor Offline de Scratch te aparecerá la ventana de l
 
 El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el panel central hay muchas más opciones de bloques que incluyen animación y sonido. Es un espacio libre de creación, como anticipamos, sin secuencia didáctica pero aún así hay manuales y ejercicios que te podés descargar de la página de Scratch para ayudarte a pensar proyectos más interesantes.
 
-
-
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
 
   <ol class="carousel-indicators">
@@ -18,7 +16,7 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
 
   <div class="carousel-inner">
     <div class="item active" align="center">
-      <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_1_1540245716894.png" alt="Imagen 1">
+    <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/Screenshot%20from%202018-10-30%2012-24-50_1540921043663.png" alt="Imagen 1">
       <div class="carousel-caption">
         <small>Imagen 1</small>
       </div>
@@ -30,7 +28,7 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
       </div>
     </div>
     <div class="item" align="center">
-      <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_3_1540245792199.png" alt="Imagen 3">
+      <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/image_1540921142272.png" alt="Imagen 3">
       <div class="carousel-caption">
         <small>Imagen 3</small>
       </div>
