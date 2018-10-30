@@ -24,7 +24,7 @@ El mismo tendrá la presentación inicial de la _imagen 3_, y como ves en el pan
       </div>
     </div>
     <div class="item" align="center">
-      <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/tecla_instalacion_scratch_2_1540245752034.png" alt="Imagen 2">
+      <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-herramientas-tecnologicas/master/assets/scratch_install_1540921659190.png" alt="Imagen 2">>
       <div class="carousel-caption">
         <small>Imagen 2</small>
       </div>
